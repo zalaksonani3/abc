@@ -1,16 +1,6 @@
 {
 	"data": [{
-		"adstatus": "1",
-		"admob_adstatus": "0",
-		"ADMOB_APPID": "",
-		"ADMOB_APPOPEN": "",
-		"ADMOB_I": "",
-		"ADMOB_N": "",
-		"ADMOB_B": "",
-		"app_Backad": "yes",
-		"screen1": "0",
-		"screen2": "0",
-		"screen3": "1",
+		
 		"exitscreen": "1",
 		"exitdialog": "1",
 		"privacyalltime": "1",
